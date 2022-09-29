@@ -11,7 +11,7 @@ I previously worked as a developer advocate at [Chainstack](https://chainstack.c
 
 - Live workshop as part of ETHGlobal HackMoney hackathon. [Watch on Youtube](https://www.youtube.com/watch?v=D0gzvot3KpE&feature=youtu.be)
 
-- Harmony Developer DAO [Twitter space](https://twitter.com/harmony_dev_dao/status/1525495009822269441)
+- Fuse Meets Chainstack. [Watch on Youtube](https://www.youtube.com/watch?v=XhJ80p6qv7w)
 
 - We decentralize tech podcast (in Spanish) about transtioning to blockchain and web3. [Listen on Spotify](https://open.spotify.com/episode/1WcshBXhtIiEvzTAwgk7Tb?si=d12561d661e043b5)
 
