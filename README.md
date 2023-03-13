@@ -9,15 +9,19 @@ I previously worked as a developer advocate at [Chainstack](https://chainstack.c
 
 ## Interviews / Podcasts / AMAs / Workshops
 
-- Live workshop as part of ETHGlobal HackMoney hackathon. [Watch on Youtube](https://www.youtube.com/watch?v=D0gzvot3KpE&feature=youtu.be)
-
-- Fuse Meets Chainstack. [Watch on Youtube](https://www.youtube.com/watch?v=XhJ80p6qv7w)
-
+- [Paymasters 101 @ETH Denver 2023](https://www.youtube.com/watch?v=N9a4IMDIIGY)
+- [Creating an EVM blockchain bridge @ETHGlobal HackMoney hackathon](https://www.youtube.com/watch?v=D0gzvot3KpE)
+- [Fuse Meets Chainstack](https://www.youtube.com/watch?v=XhJ80p6qv7w)
 - We decentralize tech podcast (in Spanish) about transtioning to blockchain and web3. [Listen on Spotify](https://open.spotify.com/episode/1WcshBXhtIiEvzTAwgk7Tb?si=d12561d661e043b5)
+- zkLend Twitter space AMA about blockchain infrastructure. [Listen on Spotify](https://open.spotify.com/episode/1MQ29tKfGTMP5LvfAkvZC2?si=d697f1039b424ba1) or writeup on [Medium](https://medium.com/zklend/zklend-x-chainstack-ama-recap-12-07-2022-bd667344fd1e)
+
+## Tutorials
 
 - StakNet articles cross-posted from [Chainstack blog](https://chainstack.com/blog/) to StarkNet en Español on Medium: [Part 1](https://medium.com/starknet-en-espa%C3%B1ol/la-odisea-starknet-entendiendo-cairo-922f46d546e0) & [Part 2](https://medium.com/starknet-en-espa%C3%B1ol/la-odisea-starknet-visi%C3%B3n-general-y-herramientas-de-desarrollo-d059935a4d55)
-
-- zkLend Twitter space AMA about blockchain infrastructure. [Listen on Spotify](https://open.spotify.com/episode/1MQ29tKfGTMP5LvfAkvZC2?si=d697f1039b424ba1) or writeup on [Medium](https://medium.com/zklend/zklend-x-chainstack-ama-recap-12-07-2022-bd667344fd1e)
+- [The ultimate guide to ERC20 token balances](https://chainstack.com/ultimate-guide-erc20-token-balance/).
+- [Building a decentralised music marketplace with Aarweave and Bundlr](https://chainstack.com/music-marketplace-arweave-bundlr-and-polygon/).
+- [Hardhat vs Foundry: differences in performance and developer experience](https://chainstack.com/foundry-hardhat-differences-performance/).
+- [How to create an EVM compatible blockchain bridge](https://chainstack.com/how-to-create-blockchain-bridge/).
 
 ## Side projects
 
