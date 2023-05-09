@@ -7,7 +7,7 @@ I'm currently working as a **developer relations engineer at [Matter Labs](https
 I previously worked as a developer advocate at [Chainstack](https://chainstack.com) a blockchain infrastructure company, where I created content about different blockchain protocols, built MVPs to showcase the product features, and engaged with the community and customers to help them with our products.
 
 
-## Interviews / Podcasts / AMAs / Workshops
+## Workshops / Presentations / Interviews / Podcasts / 
 
 - [Smart contract accounts and paymasters 4all @LearnWeb3](https://www.youtube.com/watch?v=M8p5ucnOH5E)
 - [The recipe for mass adoption @ETHGlobal Tokyo Builders session](https://www.youtube.com/live/u_NIMaqBLFs?feature=share&t=17672)
