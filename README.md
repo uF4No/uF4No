@@ -9,6 +9,8 @@ I previously worked as a developer advocate at [Chainstack](https://chainstack.c
 
 ## Interviews / Podcasts / AMAs / Workshops
 
+- [Smart contract accounts and paymasters 4all @LearnWeb3](https://www.youtube.com/watch?v=M8p5ucnOH5E)
+- [The recipe for mass adoption @ETHGlobal Tokyo Builders session](https://www.youtube.com/live/u_NIMaqBLFs?feature=share&t=17672)
 - [Paymasters 101 @ETH Denver 2023](https://www.youtube.com/watch?v=N9a4IMDIIGY)
 - [Creating an EVM blockchain bridge @ETHGlobal HackMoney hackathon](https://www.youtube.com/watch?v=D0gzvot3KpE)
 - [Fuse Meets Chainstack](https://www.youtube.com/watch?v=XhJ80p6qv7w)
