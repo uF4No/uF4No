@@ -9,6 +9,7 @@ I previously worked as a developer advocate at [Chainstack](https://chainstack.c
 
 ## Workshops / Presentations / Interviews / Podcasts / 
 
+- [Developer experience & native account abstraction on zkSync @Chainlink's BlockMagic 2024](https://www.youtube.com/watch?v=YAou1sjErAY)
 - [Achieving mass adoption with L2s and account abstraction @ETHPrague 2023](https://www.youtube.com/watch?v=OiJi93lh2Fg)
 - [Smart contract accounts and paymasters 4all @LearnWeb3](https://www.youtube.com/watch?v=M8p5ucnOH5E)
 - [The recipe for mass adoption @ETHGlobal Tokyo Builders session](https://www.youtube.com/live/u_NIMaqBLFs?feature=share&t=17672)
